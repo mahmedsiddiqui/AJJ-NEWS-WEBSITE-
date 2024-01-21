@@ -1,0 +1,47 @@
+
+/* Navigation Bar  */
+div{
+
+   display: inline-flex;
+
+}
+
+.main{
+padding-left: 30%;
+}
+.urdu{
+    font-weight: 900;
+  font-size: large;
+}
+
+
+/* SECOND BAR  */
+h1 {
+
+border-left: 2px solid rgb(0, 0, 0);
+word-spacing: 2px;
+}
+.second {
+padding-left: 18%;
+
+}
+h1:hover{
+    color: rgb(245, 192, 17);
+
+}
+
+
+.abc{
+    display: inline-flex;
+    /* border: 2px solid red; */
+    /* border-width: 5px; */
+}
+.big{
+    font-size: 150%;
+    font-weight: 900;
+    color: rgb(230, 176, 75);
+}
+/* #s{
+    padding-left: 10%;
+  
+} */
